@@ -11,7 +11,7 @@ This repository contains all archives for the project __ft_printf__ in the __Sch
 	<span> · </span>
 	<a href="#requirements">Requirements</a>
 	<span> · </span>
-	<a href="#instructions">Instuctions</a>
+	<a href="#instructions">Instructions</a>
 	<span> · </span>
 	<a href="#testing">Testing</a>
 	<span> · </span>
@@ -71,6 +71,7 @@ To use the library functions in your code, simply include this header:
 ```
 #include "ft_printf.h"
 ```
+ft_printf.h also includes libft.h
 
 ## Testing
 This library have been tested with the normal and strict mode of [Francinette](https://github.com/xicodomingues/francinette) to the date of 22/12/2022.
