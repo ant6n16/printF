@@ -24,7 +24,6 @@ This project is a __C library__ that emulates the printf function. The aim of re
 The code in this repository follows [the rules of the Norminette](https://github.com/42School/norminette).
 
 ## Index
-### Functions from `<ctype.h>` library
 * [`ft_char`](https://github.com/ant6n16/printF/blob/main/ft_char.c) : To process %c option
 * [`ft_check_input`](https://github.com/ant6n16/printF/blob/main/ft_check_input.c) : To work with the input string
 * [`ft_hex_mayus`](https://github.com/ant6n16/printF/blob/main/ft_hex_mayus.c) : To process %X option
