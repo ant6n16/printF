@@ -20,7 +20,7 @@ This repository contains all archives for the project __ft_printf__ in the __Sch
 
 ## About
 
-This project is a __C library__ that emulates the printf function. The aim of rewrite printf is to get a better understanding of it and to get hablities when working with strings. Also we have worked with variadic The Libft functions can be used, so you can find a folder with the Libft library that we created in the 1st project. The bonus exercices of this porject have not been made. [You can find more information in the subject (https://github.com/Javisanchezf/42pdfs/blob/main/libft_subject.pdf). 
+This project is a __C library__ that emulates the printf function. The aim of rewrite printf is to get a better understanding of it and to get hablities when working with strings. Also we have worked with variadic The Libft functions can be used, so you can find a folder with the Libft library that we created in the 1st project. The bonus exercices of this porject have not been made.
 The code in this repository follows [the rules of the Norminette](https://github.com/42School/norminette).
 
 ## Index
