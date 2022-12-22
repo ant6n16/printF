@@ -25,20 +25,20 @@ The code in this repository follows [the rules of the Norminette](https://github
 
 ## Index
 ### Functions from `<ctype.h>` library
-* [`ft_isascii`](https://github.com/ant6n16/printF/blob/main/ft_char.c) : To process %c option
-* [`ft_isalpha`](https://github.com/ant6n16/printF/blob/main/ft_check_input.c) : To work with the input string
-* [`ft_isdigit`](https://github.com/ant6n16/printF/blob/main/ft_hex_mayus.c) : To process %X option
-* [`ft_isalnum`](https://github.com/ant6n16/printF/blob/main/ft_hex.c) : To process %x option
-* [`ft_isprint`](https://github.com/ant6n16/printF/blob/main/ft_integer.c) : To process %i or %d options
-* [`ft_tolower`](https://github.com/ant6n16/printF/blob/main/ft_itoa_hex.c) : To convert an hex number to string
-* [`ft_toupper`](https://github.com/ant6n16/printF/blob/main/ft_itoa_long.c) : To convert an unsigned int to string
-* [`ft_toupper`](https://github.com/ant6n16/printF/blob/main/ft_pointer.c) : To process %p option
-* [`ft_toupper`](https://github.com/ant6n16/printF/blob/main/ft_printf.c) : To manage the other functions
-* [`ft_toupper`](https://github.com/ant6n16/printF/blob/main/ft_putchar_fd_cont.c) : To write a char and increment the count of chars written
-* [`ft_toupper`](https://github.com/ant6n16/printF/blob/main/ft_replace_arg.c) : To substitute the the %cspdiuxX by the argument
-* [`ft_toupper`](https://github.com/ant6n16/printF/blob/main/ft_string.c) : To process %s option
-* [`ft_toupper`](https://github.com/ant6n16/printF/blob/main/ft_type.c) : To check that one of the %cspdiuxX have been pased
-* [`ft_toupper`](https://github.com/ant6n16/printF/blob/main/ft_uint.c) : To process %u option
+* [`ft_char`](https://github.com/ant6n16/printF/blob/main/ft_char.c) : To process %c option
+* [`ft_check_input`](https://github.com/ant6n16/printF/blob/main/ft_check_input.c) : To work with the input string
+* [`ft_hex_mayus`](https://github.com/ant6n16/printF/blob/main/ft_hex_mayus.c) : To process %X option
+* [`ft_hex`](https://github.com/ant6n16/printF/blob/main/ft_hex.c) : To process %x option
+* [`ft_integer`](https://github.com/ant6n16/printF/blob/main/ft_integer.c) : To process %i or %d options
+* [`ft_itoa_hex`](https://github.com/ant6n16/printF/blob/main/ft_itoa_hex.c) : To convert an hex number to string
+* [`ft_itoa_long`](https://github.com/ant6n16/printF/blob/main/ft_itoa_long.c) : To convert an unsigned int to string
+* [`ft_pointer`](https://github.com/ant6n16/printF/blob/main/ft_pointer.c) : To process %p option
+* [`ft_printf`](https://github.com/ant6n16/printF/blob/main/ft_printf.c) : To manage the other functions
+* [`ft_putchar_fd_cont`](https://github.com/ant6n16/printF/blob/main/ft_putchar_fd_cont.c) : To write a char and increment the count of chars written
+* [`ft_replace_arg`](https://github.com/ant6n16/printF/blob/main/ft_replace_arg.c) : To substitute the the %cspdiuxX by the argument
+* [`ft_string`](https://github.com/ant6n16/printF/blob/main/ft_string.c) : To process %s option
+* [`ft_type`](https://github.com/ant6n16/printF/blob/main/ft_type.c) : To check that one of the %cspdiuxX have been pased
+* [`ft_uint`](https://github.com/ant6n16/printF/blob/main/ft_uint.c) : To process %u option
 
 
 ## Requirements
